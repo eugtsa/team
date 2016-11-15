@@ -1,0 +1,11 @@
+None_*
+temp-vw*
+.ipynb_checkpoints
+.idea
+*.pyc
+*.zip
+*.bz2
+*.csv
+dota-team-challenge
+vw*
+*.swp

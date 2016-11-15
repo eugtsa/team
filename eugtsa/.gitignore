@@ -1,0 +1,8 @@
+temp-vw*
+*.pyc
+*.zip
+*.bz2
+*.json
+*.csv
+*.dat
+*.npz
